@@ -1,0 +1,17 @@
+CREATE DATABASE db_restaurante;
+GO
+USE db_restaurante;
+GO
+
+CREATE TABLE [Comidas] (
+	[Id] INT NOT NULL IDENTITY(1, 1) PRIMARY KEY,
+	[Nombre] NVARCHAR(150) NOT NULL,
+	[Tiempo] SMALLDATETIME NOT NULL DEFAULT GETDATE(),
+	[Calorias] NVARCHAR(10) NOT NULL, 
+	[Pais] NVARCHAR(50) NOT NULL,
+	[Precio] DECIMAL(10, 2) NOT NULL
+);
+GO
+
+INSERT INTO [Comidas] VALUES ('Bandeja paisa', GETDATE(), '2000', 'Colombia', 25000.0);
+GO
