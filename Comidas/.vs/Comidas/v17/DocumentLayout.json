@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\salak301\\Desktop\\Prueba4-Programacion\\Comidas\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9830A4BC-2A68-416B-A71E-22FC1340C41E}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\salak301\\desktop\\prueba4-programacion\\comidas\\ut_presentacion\\nucleo\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9830A4BC-2A68-416B-A71E-22FC1340C41E}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\nucleo\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9830A4BC-2A68-416B-A71E-22FC1340C41E}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\salak301\\desktop\\prueba4-programacion\\comidas\\ut_presentacion\\nucleo\\entidadesnucleo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9830A4BC-2A68-416B-A71E-22FC1340C41E}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\nucleo\\entidadesnucleo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9830A4BC-2A68-416B-A71E-22FC1340C41E}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\salak301\\desktop\\prueba4-programacion\\comidas\\ut_presentacion\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9830A4BC-2A68-416B-A71E-22FC1340C41E}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Configuracion.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\Desktop\\Prueba4-Programacion\\Comidas\\ut_presentacion\\Nucleo\\Configuracion.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Nucleo\\Configuracion.cs",
+              "ToolTip": "C:\\Users\\salak301\\Desktop\\Prueba4-Programacion\\Comidas\\ut_presentacion\\Nucleo\\Configuracion.cs",
+              "RelativeToolTip": "ut_presentacion\\Nucleo\\Configuracion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T14:48:55.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EntidadesNucleo.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\Desktop\\Prueba4-Programacion\\Comidas\\ut_presentacion\\Nucleo\\EntidadesNucleo.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Nucleo\\EntidadesNucleo.cs",
+              "ToolTip": "C:\\Users\\salak301\\Desktop\\Prueba4-Programacion\\Comidas\\ut_presentacion\\Nucleo\\EntidadesNucleo.cs",
+              "RelativeToolTip": "ut_presentacion\\Nucleo\\EntidadesNucleo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T14:48:32.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\Desktop\\Prueba4-Programacion\\Comidas\\ut_presentacion\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\salak301\\Desktop\\Prueba4-Programacion\\Comidas\\ut_presentacion\\UnitTest1.cs",
+              "RelativeToolTip": "ut_presentacion\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T14:40:49.348Z"
             }
           ]
         }

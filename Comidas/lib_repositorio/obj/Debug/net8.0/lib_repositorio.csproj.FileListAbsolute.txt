@@ -1,0 +1,16 @@
+C:\Users\salak301\Desktop\Prueba4-Programacion\Comidas\lib_repositorio\bin\Debug\net8.0\lib_repositorio.deps.json
+C:\Users\salak301\Desktop\Prueba4-Programacion\Comidas\lib_repositorio\bin\Debug\net8.0\lib_repositorio.dll
+C:\Users\salak301\Desktop\Prueba4-Programacion\Comidas\lib_repositorio\bin\Debug\net8.0\lib_repositorio.pdb
+C:\Users\salak301\Desktop\Prueba4-Programacion\Comidas\lib_repositorio\bin\Debug\net8.0\lib_dominio.dll
+C:\Users\salak301\Desktop\Prueba4-Programacion\Comidas\lib_repositorio\bin\Debug\net8.0\lib_dominio.pdb
+C:\Users\salak301\Desktop\Prueba4-Programacion\Comidas\lib_repositorio\obj\Debug\net8.0\lib_repositorio.csproj.AssemblyReference.cache
+C:\Users\salak301\Desktop\Prueba4-Programacion\Comidas\lib_repositorio\obj\Debug\net8.0\lib_repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salak301\Desktop\Prueba4-Programacion\Comidas\lib_repositorio\obj\Debug\net8.0\lib_repositorio.AssemblyInfoInputs.cache
+C:\Users\salak301\Desktop\Prueba4-Programacion\Comidas\lib_repositorio\obj\Debug\net8.0\lib_repositorio.AssemblyInfo.cs
+C:\Users\salak301\Desktop\Prueba4-Programacion\Comidas\lib_repositorio\obj\Debug\net8.0\lib_repositorio.csproj.CoreCompileInputs.cache
+C:\Users\salak301\Desktop\Prueba4-Programacion\Comidas\lib_repositorio\obj\Debug\net8.0\lib_repositorio.sourcelink.json
+C:\Users\salak301\Desktop\Prueba4-Programacion\Comidas\lib_repositorio\obj\Debug\net8.0\lib_repo.CF269C83.Up2Date
+C:\Users\salak301\Desktop\Prueba4-Programacion\Comidas\lib_repositorio\obj\Debug\net8.0\lib_repositorio.dll
+C:\Users\salak301\Desktop\Prueba4-Programacion\Comidas\lib_repositorio\obj\Debug\net8.0\refint\lib_repositorio.dll
+C:\Users\salak301\Desktop\Prueba4-Programacion\Comidas\lib_repositorio\obj\Debug\net8.0\lib_repositorio.pdb
+C:\Users\salak301\Desktop\Prueba4-Programacion\Comidas\lib_repositorio\obj\Debug\net8.0\ref\lib_repositorio.dll
