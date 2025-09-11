@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\salak301\\Desktop\\Prueba4-Programacion\\Comidas\\ut_presentacion\\ut_presentacion.csproj": {}
+    "C:\\Users\\luisi\\OneDrive\\Desktop\\Prueba4-Programacion\\Comidas\\ut_presentacion\\ut_presentacion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\salak301\\Desktop\\Prueba4-Programacion\\Comidas\\lib_dominio\\lib_dominio.csproj": {
+    "C:\\Users\\luisi\\OneDrive\\Desktop\\Prueba4-Programacion\\Comidas\\lib_dominio\\lib_dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\salak301\\Desktop\\Prueba4-Programacion\\Comidas\\lib_dominio\\lib_dominio.csproj",
+        "projectUniqueName": "C:\\Users\\luisi\\OneDrive\\Desktop\\Prueba4-Programacion\\Comidas\\lib_dominio\\lib_dominio.csproj",
         "projectName": "lib_dominio",
-        "projectPath": "C:\\Users\\salak301\\Desktop\\Prueba4-Programacion\\Comidas\\lib_dominio\\lib_dominio.csproj",
-        "packagesPath": "C:\\Users\\salak301\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\salak301\\Desktop\\Prueba4-Programacion\\Comidas\\lib_dominio\\obj\\",
+        "projectPath": "C:\\Users\\luisi\\OneDrive\\Desktop\\Prueba4-Programacion\\Comidas\\lib_dominio\\lib_dominio.csproj",
+        "packagesPath": "C:\\Users\\luisi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luisi\\OneDrive\\Desktop\\Prueba4-Programacion\\Comidas\\lib_dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\salak301\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luisi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -71,24 +72,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\salak301\\Desktop\\Prueba4-Programacion\\Comidas\\lib_repositorio\\lib_repositorio.csproj": {
+    "C:\\Users\\luisi\\OneDrive\\Desktop\\Prueba4-Programacion\\Comidas\\lib_repositorio\\lib_repositorio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\salak301\\Desktop\\Prueba4-Programacion\\Comidas\\lib_repositorio\\lib_repositorio.csproj",
+        "projectUniqueName": "C:\\Users\\luisi\\OneDrive\\Desktop\\Prueba4-Programacion\\Comidas\\lib_repositorio\\lib_repositorio.csproj",
         "projectName": "lib_repositorio",
-        "projectPath": "C:\\Users\\salak301\\Desktop\\Prueba4-Programacion\\Comidas\\lib_repositorio\\lib_repositorio.csproj",
-        "packagesPath": "C:\\Users\\salak301\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\salak301\\Desktop\\Prueba4-Programacion\\Comidas\\lib_repositorio\\obj\\",
+        "projectPath": "C:\\Users\\luisi\\OneDrive\\Desktop\\Prueba4-Programacion\\Comidas\\lib_repositorio\\lib_repositorio.csproj",
+        "packagesPath": "C:\\Users\\luisi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luisi\\OneDrive\\Desktop\\Prueba4-Programacion\\Comidas\\lib_repositorio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\salak301\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luisi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -104,8 +105,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\salak301\\Desktop\\Prueba4-Programacion\\Comidas\\lib_dominio\\lib_dominio.csproj": {
-                "projectPath": "C:\\Users\\salak301\\Desktop\\Prueba4-Programacion\\Comidas\\lib_dominio\\lib_dominio.csproj"
+              "C:\\Users\\luisi\\OneDrive\\Desktop\\Prueba4-Programacion\\Comidas\\lib_dominio\\lib_dominio.csproj": {
+                "projectPath": "C:\\Users\\luisi\\OneDrive\\Desktop\\Prueba4-Programacion\\Comidas\\lib_dominio\\lib_dominio.csproj"
               }
             }
           }
@@ -119,7 +120,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -146,24 +148,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\salak301\\Desktop\\Prueba4-Programacion\\Comidas\\ut_presentacion\\ut_presentacion.csproj": {
+    "C:\\Users\\luisi\\OneDrive\\Desktop\\Prueba4-Programacion\\Comidas\\ut_presentacion\\ut_presentacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\salak301\\Desktop\\Prueba4-Programacion\\Comidas\\ut_presentacion\\ut_presentacion.csproj",
+        "projectUniqueName": "C:\\Users\\luisi\\OneDrive\\Desktop\\Prueba4-Programacion\\Comidas\\ut_presentacion\\ut_presentacion.csproj",
         "projectName": "ut_presentacion",
-        "projectPath": "C:\\Users\\salak301\\Desktop\\Prueba4-Programacion\\Comidas\\ut_presentacion\\ut_presentacion.csproj",
-        "packagesPath": "C:\\Users\\salak301\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\salak301\\Desktop\\Prueba4-Programacion\\Comidas\\ut_presentacion\\obj\\",
+        "projectPath": "C:\\Users\\luisi\\OneDrive\\Desktop\\Prueba4-Programacion\\Comidas\\ut_presentacion\\ut_presentacion.csproj",
+        "packagesPath": "C:\\Users\\luisi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\luisi\\OneDrive\\Desktop\\Prueba4-Programacion\\Comidas\\ut_presentacion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\salak301\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luisi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -179,11 +181,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\salak301\\Desktop\\Prueba4-Programacion\\Comidas\\lib_dominio\\lib_dominio.csproj": {
-                "projectPath": "C:\\Users\\salak301\\Desktop\\Prueba4-Programacion\\Comidas\\lib_dominio\\lib_dominio.csproj"
+              "C:\\Users\\luisi\\OneDrive\\Desktop\\Prueba4-Programacion\\Comidas\\lib_dominio\\lib_dominio.csproj": {
+                "projectPath": "C:\\Users\\luisi\\OneDrive\\Desktop\\Prueba4-Programacion\\Comidas\\lib_dominio\\lib_dominio.csproj"
               },
-              "C:\\Users\\salak301\\Desktop\\Prueba4-Programacion\\Comidas\\lib_repositorio\\lib_repositorio.csproj": {
-                "projectPath": "C:\\Users\\salak301\\Desktop\\Prueba4-Programacion\\Comidas\\lib_repositorio\\lib_repositorio.csproj"
+              "C:\\Users\\luisi\\OneDrive\\Desktop\\Prueba4-Programacion\\Comidas\\lib_repositorio\\lib_repositorio.csproj": {
+                "projectPath": "C:\\Users\\luisi\\OneDrive\\Desktop\\Prueba4-Programacion\\Comidas\\lib_repositorio\\lib_repositorio.csproj"
               }
             }
           }
@@ -197,7 +199,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -236,7 +239,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

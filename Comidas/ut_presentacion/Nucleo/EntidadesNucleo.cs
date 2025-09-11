@@ -1,12 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿using lib_dominio.Entidades;
 namespace ut_presentacion.Nucleo
 {
-    internal class EntidadesNucleo
+    public class EntidadesNucleo
     {
+        public static Comidas? Comidas()
+        {
+            var entidad = new Comidas();
+            entidad.Nombre = "Pruebas-";
+            entidad.Tiempo = DateTime.Now;
+            entidad.Calorias = "Prueba";
+            entidad.Pais = "Prueba";
+            entidad.Precio = 3.8m;
+            return entidad;
+        }
     }
 }
